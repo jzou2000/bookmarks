@@ -16,11 +16,7 @@ title: local
 <H3 LAST_MODIFIED="1562794450">Vancouver</H3>
 
 <a href="https://www.vandiary.com/">Home - Vandiary 吃喝玩乐温哥华</a>
-<a href="http://195bicknell.ca/">195 RCSCC Bicknell</a>
-
-
-<a href="https://www.northshoreexotics.com/ferrari-driving-experiences">North Shore Exotics Inc. | Vancouver | Supercar Driving Experiences | Ferrari Driving Experiences</a>
-<a href="https://www.dropbox.com/s/vu7p0us7ra80mgs/Scenic%20Rush%20-%20Current%20Price%20List.pdf?dl=0">Scenic Rush - Current Price List.pdf</a>
+<a href="https://scenicrush.com/">Scenic Rush - Experience the Rush! (with supercars)</a>
 <a href="https://www.equitable.ca/">Equitable Life Insurance Company of Canada</a>
 <a href="https://www.globalindustrial.ca/c/motors/timing-belts?trackType=0&infoParam.campaignId=C5E&gclid=CjwKCAiAm7LSBRBBEiwAvL1-L6r6drWwA6zxTvKnpCIlAN08o7MxDvoC_tjQNwYQQA9WDRbhsz8FXBoCxisQAvD_BwE">Plastic Timing Belt Pulleys - www.globalindustrial.ca</a>
 <a href="https://onboarding.ultipro.ca/HRB5000HRBCI/NewHire">Onboarding</a>
